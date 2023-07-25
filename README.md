@@ -3,9 +3,9 @@
 <h2>👨‍💻 Projects</h2>
 
 - <b>IBM Data Analyst Certification Projects</b>
-  - [Flight Data Visualization Statistic Interactive Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Auto Price and Mileage Interactive Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SQL Chicago Socioeconomic Data Analysis and Indicators](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Flight Data Visualization Statistic Interactive Dashboard](https://github.com/leonardocuellargold/IBM-Data-Analyst-Course-Projects/tree/main/Airline_Statistics_Dashboard)
+  - [Auto Price and Mileage Interactive Dashboard](https://github.com/leonardocuellargold/IBM-Data-Analyst-Course-Projects/tree/main/Auto_Mileage_Dashboard)
+  - [SQL Chicago Socioeconomic Data Analysis and Indicators](https://github.com/leonardocuellargold/IBM-Data-Analyst-Course-Projects/blob/main/Chicago_SQL_Data_Analysis/Chicago_SQL_Data_Analysis.ipynb)
 <!--
 - <b>Tableau</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
