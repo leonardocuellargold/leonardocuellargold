@@ -11,13 +11,13 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   -->
 - <b>Web Development</b>
-  - [Blog Website](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Dental Business Website](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Shopify Store](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Blog Website](https://leonardo-gold.com/)
+  - [Dental Business Website](https://leonardo-gold.com/)
+  - [Shopify Store](https://leonardo-gold.com/)
 - <b>Certifications</b>
-  - [IBM Data Analyst Certification](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Google Digital Marketing Certification](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Microsoft Certifications](https://github.com/joshmadakor1/DecrypterPOC)
+  - [IBM Data Analyst Certification](https://leonardo-gold.com/)
+  - [Google Digital Marketing Certification](https://leonardo-gold.com/)
+  - [Microsoft Certifications](https://leonardo-gold.com/)
 <!--
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
