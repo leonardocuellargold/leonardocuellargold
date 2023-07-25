@@ -15,9 +15,9 @@
   - [Dental Business Website](https://leonardo-gold.com/)
   - [Shopify Store](https://leonardo-gold.com/)
 - <b>Certifications</b>
-  - [IBM Data Analyst Certification](https://leonardo-gold.com/)
+  - [IBM Data Analyst Certifications](https://www.credly.com/users/leonardo-cuellar.4bfcc8b3)
   - [Google Digital Marketing Certification](https://leonardo-gold.com/)
-  - [Microsoft Certifications](https://leonardo-gold.com/)
+  - [Microsoft Certifications](https://learn.microsoft.com/en-us/users/leonardocuellar-7640/)
 <!--
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
