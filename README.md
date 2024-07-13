@@ -12,6 +12,7 @@
   -->
 - <b>Web Development</b>
   - [Blog Website](https://leonardo-gold.com/)
+  - [CMS + LMS](https://www.500rising.org/))
   - [Dental Business Website](https://leonardo-gold.com/)
   - [Shopify Store](https://leonardo-gold.com/)
 - <b>Certifications</b>
