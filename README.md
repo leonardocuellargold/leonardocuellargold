@@ -1,8 +1,5 @@
 <h1>Hi, I'm Leo! <br/><a href="https://github.com/leonardocuellargold">Data Analyst</a>, <a href="https://www.linkedin.com/in/leonardo-gold/">Web Developer</a>, <a href="https://leonardo-gold.com/">Online Blogger</a></h1>
 
-
-**Languages and Tools:**
-
 <p align="center">
 
   <div align="center">
