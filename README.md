@@ -20,6 +20,10 @@
 - <b>Tableau</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   -->
+- <b>Business Application Programming (Object-Oriented)</b>
+  - [Juice Bar (GUI & Switch Statements)]([https://leonardo-gold.com/](https://github.com/leonardocuellargold/Business_Application_Programming/tree/main/JuiceBar))
+  - [Employee Data Management System](https://github.com/leonardocuellargold/Business_Application_Programming/tree/main/Employee_Data_Management)
+  - [CSV to ARFF File Converter](https://github.com/leonardocuellargold/Business_Application_Programming/tree/main/CSVtoArff)
 - <b>Web Development</b>
   - [Blog Website](https://leonardo-gold.com/)
   - [CMS + LMS](https://www.500rising.org/)
