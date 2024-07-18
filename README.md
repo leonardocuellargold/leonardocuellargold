@@ -6,7 +6,6 @@
   - [Flight Data Visualization Statistic Interactive Dashboard](https://github.com/leonardocuellargold/IBM-Data-Analyst-Course-Projects/tree/main/Airline_Statistics_Dashboard)
   - [Auto Price and Mileage Interactive Dashboard](https://github.com/leonardocuellargold/IBM-Data-Analyst-Course-Projects/tree/main/Auto_Mileage_Dashboard)
   - [SQL Chicago Socioeconomic Data Analysis and Indicators](https://github.com/leonardocuellargold/IBM-Data-Analyst-Course-Projects/blob/main/Chicago_SQL_Data_Analysis/Chicago_SQL_Data_Analysis.ipynb)
-  - [Netflix Tableau Dashboard](https://github.com/leonardocuellargold/Netflix_Data_Visualization)
 <!--
 - <b>Tableau</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -24,6 +23,8 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
+- <b>Data Analytics</b>
+  - [Netflix Tableau Dashboard](https://github.com/leonardocuellargold/Netflix_Data_Visualization)
 
 <h2>📜 Blog Posts and Project Documentation</h2>
 
