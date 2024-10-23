@@ -39,6 +39,8 @@
 -->
 - <b>Data Analytics</b>
   - [Netflix Tableau Dashboard](https://github.com/leonardocuellargold/Netflix_Data_Visualization)
+- <b>Guides</b>
+  - [GitHub Pages Website Workshop](https://github.com/leonardocuellargold/Jekyll-Template-List)
 
 <h2>📜 Blog Posts and Project Documentation</h2>
 
